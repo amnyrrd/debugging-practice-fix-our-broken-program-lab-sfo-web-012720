@@ -9,7 +9,7 @@ puts "Programs have flow."
 puts "Which means that you see this first"
 puts "and this next."
 
-puts "Lines of code are executed linearly, that's flow."
+puts "Lines of code are executed linearly, that's flow.
 puts "First come, first served."
 
 puts "Programs are composed of basically three things:"
